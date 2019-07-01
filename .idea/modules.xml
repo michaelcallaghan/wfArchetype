@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wfapp1-archetype.iml" filepath="$PROJECT_DIR$/wfapp1-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wf-javaee7-archetype.iml" filepath="$PROJECT_DIR$/wfapp1-archetype.iml" />
     </modules>
   </component>
 </project>
